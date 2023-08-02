@@ -3,17 +3,22 @@ body {
   margin: 50px auto;
 }
 
+.container {
+  background-color: #d6cccb;
+}
+
 h1 {
   text-align: center;
 }
 
 .basic-link {
-  border: 1px solid black;
+  border: 1px solid #a69992;
   border-radius: 4px;
   color: black;
   text-decoration: none;
   padding: 5px 15px;
   margin: 30px 20px;
+  background-color: #f2f0f0;
 }
 .contact-link {
   text-decoration: none;
