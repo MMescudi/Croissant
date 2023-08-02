@@ -22,9 +22,12 @@ h1 {
 }
 .contact-link {
   text-decoration: none;
+  color: blue;
 }
 a {
   cursor: pointer;
+  text-decoration: none;
+  color: black;
 }
 
 @media (max-width: 561px) {
